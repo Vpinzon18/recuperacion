@@ -1,0 +1,40 @@
+.principal{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    width: 100%;
+}
+.principal .personajes{
+    display: flex;
+    flex-wrap:wrap;
+    width: 90vw;
+    color:black;
+    justify-content: center;
+    justify-items: center;
+
+}
+.principal .personajes .carta{
+display: flex;
+width:  390px;
+align-items: center;
+margin: 20px;
+}
+.principal .personajes .carta{
+    display: flex;
+    width:  390px;
+    align-items: center;
+    margin: 20px;
+    
+}
+.principal .personajes .Informacion{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    margin: 0 0 0 10px; 
+    
+}
+.principal .personajes .carta img{
+    width: 55%; 
+}
